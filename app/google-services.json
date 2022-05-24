@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "43555990900",
+    "project_id": "boredd-20128",
+    "storage_bucket": "boredd-20128.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43555990900:android:0aff756b27415cc13d5021",
+        "android_client_info": {
+          "package_name": "com.example.boredd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43555990900-6esc6h4fb0ni0ipjhsq7hsoescv5brkj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFVU_3ul36xvE8Xc7zocc6JI4s2POu2KY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43555990900-6esc6h4fb0ni0ipjhsq7hsoescv5brkj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
